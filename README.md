@@ -39,8 +39,8 @@
 <body>
   <h1>Sevgilim...</h1>
   <div class="heart">❤️</div>
-  <p>Bu sayfayı bulduysan bil ki seni çok seviyorum.</p>
+  <p>Bu sayfayı okuyorsan bil ki seni çok seviyorum.</p>
   <p>Sana olan sevgim kelimelere sığmaz ama yine de söylemek istiyorum:</p>
-  <h2 style="color: #cc0066;">Seni Seviyorum, [Sevgilinin Adı]!</h2>
+  <h2 style="color: #cc0066;">Seni Seviyorum, İrem !</h2>
 </body>
 </html>
